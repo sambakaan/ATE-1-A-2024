@@ -155,3 +155,39 @@ header .submenu a {
   
   
   }
+  
+  .a-propos{
+    margin-top: -140px;
+    justify-content: center;
+    margin-left: 50px;
+    background-color: #efefef;
+        }
+    .a-propos .block1{
+        display: flex;
+        padding: 200px;
+        margin-left: 140px;
+        
+        
+    }
+    .a-propos .block2 {
+        
+        padding:0 20px;
+        margin:0 20px;
+        width: 48vh;
+        font-size: medium;
+    
+    
+    
+    }
+    .a-propos .block1 img {
+        height: 22rem;
+        width: 20rem;
+        border-radius: 25px;
+        padding: 9px 0;
+    }
+    .a-propos .block2 h2 {
+        color: #b11d3a;
+    }
+    .a-propos p {
+        font-size: 20px;
+    }
