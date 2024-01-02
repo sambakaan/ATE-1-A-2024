@@ -1,0 +1,73 @@
+:root {
+    --primary-color: #b11d3a;
+    --primary-color2: #262626;
+    --primary-color3: #ffffff;
+    --primary-bg: #efefef;
+    --primary-color5: #FFDCDE;
+    --primary-color6: #181818;
+    --primary-color7: #FFEBEB
+}
+
+body{
+    background: var(--primary-bg);
+}
+header .nav {
+    display: flex;
+    color: black;
+    padding:0 30px;
+    text-decoration: none;
+    background: var(--primary-color3);
+}
+
+header .menu {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+    padding:  15px 30px;
+    font-size: 15px;
+    text-align: center;
+    margin: 0 150px;
+}
+
+header .menu a {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+    padding: 0 30px;
+    font-size: 15px;
+    text-align: center;
+}
+header .contacts {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    text-align: center;
+    margin: 0 50px;
+}
+
+header .contacts .bordure {
+    display: flex;
+    justify-content: space-between;
+    color: #efefef;
+    padding:10px 30px;
+    background: #b11d3a;
+    border:#b11d3a 1px;
+    border-radius: 20px;
+    
+}
+header .submenu {
+    border: 0;
+    background: #ffffff;
+    color: #b11d3a;
+}
+header .submenu a {
+    border: 0;
+    background: #ffffff;
+    color:#efefef;
+    
+}
