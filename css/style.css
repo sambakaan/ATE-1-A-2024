@@ -71,3 +71,87 @@ header .submenu a {
     color:#efefef;
     
 }
+
+/*Fin head*/
+
+/*bannier*/
+
+
+.bannier {
+    position: relative;
+    height: 60vh;
+    width: 100%;
+    background-image:
+      linear-gradient(rgba(52, 52, 52, 0.5), rgba(60, 60, 60, 0.284)),
+      url("../img/26.png");
+    background-size: cover;
+    margin-top: -10vh;
+  
+  }
+  
+  
+  
+  
+  .bannier .description {
+  
+  
+    left: 0;
+    top: 0;
+    margin: 6rem 11rem;
+    padding: 7rem;
+  }
+  
+  .bannier .description h2 {
+  
+    color: var(--primary-color3);
+    font-size: 3rem
+  }
+  
+  .bannier .description p {
+    width: 52vh;
+    color: var(--primary-color3);
+  }
+  
+  
+  .bannier .description input {
+    background-color: #b11d3a;
+    border-radius: 21px;
+    padding: 12px 21px;
+    color: #ffffff;
+    border: 0;
+  
+  }
+  
+  
+  .bannier .tre-bottom {
+    position: relative;
+    align-items: center;
+    display: flex;
+    padding: 0 30rem;
+  
+  
+  }
+  
+  .bannier .tre-bottom .border-btm {
+    position: relative;
+    width: 11px;
+    height: 11px;
+    background-color: var(--primary-bg);
+    margin: 2vh;
+    top: 5vh;
+    border-radius: 12vh;
+  
+  
+  }
+  
+  .bannier .tre-bottom .border-btm3 {
+    position: relative;
+    width: 21px;
+    height: 8px;
+    background-color: var(--primary-bg);
+    margin: 2vh;
+    top: 5vh;
+    border-radius: 12vh;
+  
+  
+  }
