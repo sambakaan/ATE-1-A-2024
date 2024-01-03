@@ -524,3 +524,170 @@ padding: 18px 6px;
 
   /**/
 
+
+
+  .formateurs  h2{
+    font-size: 4vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    color: var(--primary-color);
+    position: relative;
+    padding: 12vh 0;
+    width: 20rem;
+    
+  
+  }
+  .formateurs  .blog{
+  
+    display: block;
+    align-items:start;
+    text-align:left;
+    justify-content: left;
+  
+  }
+  .formateurs  .blog .actu2{
+  
+    display: block;
+    align-items:start;
+    text-align:left;
+    justify-content: left;
+  
+  }
+  .formateurs .row {
+     
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+  
+   }
+  
+  .formateurs .row  .actu{
+    font-size: 4vh;
+    font-family: cursivex ;
+    color: var(--primary-color);
+    position: relative;
+    padding: 1vh 0;
+  margin-left: -44rem;
+  
+  }
+  
+  
+  .formateurs  .grid-container {
+    display: grid;
+    grid-template-columns: 34% 34% ;
+    padding: 10px 0px;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+  }
+  .formateurs  .grid-item {
+    background-color: white;
+    padding: 50px 0;
+    font-size: 22px;
+    text-align: left;
+    margin: 2rem 4rem;
+    display: flex;
+    border-radius: 12px;
+    border: #f0f0f0 solid 1px;
+    box-shadow: 1px 10px 15px 1px rgba(0,0,0,0.1);
+  }
+  
+  
+  .formateurs .grid-container  .profil{
+    font-size: 5vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+  margin  : -6rem;
+  
+  color:black;
+  height: 3rem;
+  align-items: center;
+  text-align: left;
+  justify-content: center;
+  padding: 1px 6px;
+  
+  }
+            
+  .formateurs .grid-container .profil img {
+     
+  position: relative;
+  width: 13rem;
+  height: 15rem;
+  border-radius: 23px;
+  
+   }
+  
+          
+  .formateurs .grid-container .next{
+     
+    position: relative;
+    font-size: 22px; 
+    font-family: fantasy;
+    bottom: 12px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    width:18rem   ;
+    padding: 12px 120px;
+  
+  
+   }
+   .formateurs .grid-container .next h3{
+     
+    position: relative;
+    font-size: 28px; 
+    font-family: fantasy;
+    color: #000000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',Arial, sans-serif;
+    width: 18rem   ;
+  
+   }
+   .formateurs .grid-container .next a{
+     
+    position: absolute;
+    text-decoration: none;
+    font-size: 21px; 
+    font-family: fantasy;
+    color: #e6e6e6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',Arial, sans-serif;
+    background: #b11d3a;
+    border-radius: 33px;
+    padding: 9px  20px;
+    right: 60px;
+  
+   }
+   .formateurs .grid-container h3 p{
+     
+    font-size: 21px; 
+    color: #ffffff;
+  
+   }
+   .formateurs .grid-container  .bar{
+      font-size: 52px;
+    background: #ff0d0d;
+    width: 1vh;
+    height: 9vh;
+    margin: -10vh -15vh;
+    z-index: 22;
+  
+   }
+  
+   .formateurs   .actu2{
+    font-size: 4vh;
+    font-family: cursivex ;
+    color: var(--primary-color);
+    position: relative;
+    padding:0 198px ;
+    padding-top: 4rem;
+  
+  }
+  .formateurs  .decouve{
+    font-size: 3vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    color: var(--primary-color);
+    position: absolute;
+    padding: 220px 12px;
+    width: 20rem;
+    right: 0;
+    bottom: 0;
+  
+  }
+  
+  
+  /***/
