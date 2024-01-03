@@ -691,3 +691,190 @@ padding: 18px 6px;
   
   
   /***/
+  .apprenants p {
+    font-size: 20px;
+    display: flex;
+  }
+  
+  .apprenants .class-apprenants {
+    width: 90%;
+    margin-left: 5rem;
+    padding: 12rem 10rem;
+    margin-top: 8rem;
+    display: flex;
+  }
+  
+  .apprenants .class-apprenants .app {
+    width: 34rem;
+  
+  }
+  
+  .apprenants .block5 {
+   background: #e9e9e9;
+    display: block;
+    border-radius: 12px;
+    border: #acacac3a solid 1px;
+  
+  }
+  
+  .apprenants .block5 .bg-img {
+    width: 37rem;
+    background-image: url("../img/27.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4rem  0;
+    height: 18rem;
+    display: block;
+    border-bottom: red solid 12px;
+  }
+  
+  .apprenants .block5 .bg-img span {
+    width: 37rem;
+  color: #efefef;
+  
+    padding: 1rem  0;
+    height: 1rem;
+    display: block;
+    border-top-right-radius:  12px;
+    border-bottom-right-radius:  12px;
+    background-color: #b11d3a;
+    width: 12vh;
+  }
+  
+  .apprenants .class-apprenants h2 {
+    display: flex;
+    color: #b11d3a;
+  }
+  
+  .class-apprenants .block5 p {
+    font-size: 20px;
+    display: flex;
+  }
+  
+  
+  .apprenants .block5 {
+   background: #e9e9e9;
+    display: block;
+    border-radius: 12px;
+    border: #acacac3a solid 1px;
+  
+  }
+  
+  .apprenants .block5 .bg-img {
+    width: 37rem;
+    background-image: url("../img/27.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4rem  0;
+    height: 18rem;
+    display: block;
+    border-bottom: red solid 12px;
+  }
+  
+  .apprenants .block5 .bg-img span {
+    width: 37rem;
+  color: #efefef;
+  
+    padding: 1rem  0;
+    height: 1rem;
+    display: block;
+    border-top-right-radius:  12px;
+    border-bottom-right-radius:  12px;
+    background-color: #b11d3a;
+    width: 12vh;
+  }
+  
+  .apprenants .class-apprenants h2 {
+    display: flex;
+    color: #b11d3a;
+  }
+  
+  .class-apprenants .block5 p {
+    font-size: 20px;
+    display: flex;
+  }
+  /**/
+  
+  .apprenants .block5 {
+    background: #e9e9e9;
+     display: block;
+     border-radius: 12px;
+     border: #acacac3a solid 1px;
+   
+   }
+   
+   .apprenants .block5 .bg-img {
+     width: 37rem;
+     background-image: url("../img/27.png");
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     padding: 4rem  0;
+     height: 18rem;
+     display: block;
+     border-bottom: red solid 12px;
+   }
+  
+   .apprenants .block5 .bg-img2 {
+    width: 37rem;
+    background-image: url("../img/13.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4rem  0;
+    height: 18rem;
+    display: block;
+    border-bottom: red solid 12px;
+  }
+   
+   .apprenants .block5 .bg-img span {
+     width: 37rem;
+   color: #efefef;
+   
+     padding: 1rem  0;
+     height: 1rem;
+     display: block;
+     border-top-right-radius:  12px;
+     border-bottom-right-radius:  12px;
+     background-color: #b11d3a;
+     width: 12vh;
+   }
+   
+   .apprenants .class-apprenants h2 {
+     display: flex;
+     color: #b11d3a;
+   }
+   
+   .class-apprenants .block5 p {
+     font-size: 20px;
+     display: flex;
+   }
+  
+  /**/
+  .apprenants .block6 {
+    width: 70%;
+  
+    margin-left: 15rem;
+    padding: 1rem;
+    margin-top: 20rem;
+    display: flex;
+  }
+  
+  .apprenants .block6 h2 {
+    display: flex;
+  }
+  
+  .block6 p {
+    font-size: 20px;
+  }
+  
+  .apprenants .block6 h2 {
+    display: flex;
+  }
+  
+  .apprenants .block6 img {
+    width: 25rem;
+    display: flex;
+  }
