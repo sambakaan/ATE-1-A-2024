@@ -73,6 +73,63 @@ header .submenu a {
 }
 
 /*Fin head*/
+/*Bannier*/
+.Bannier {
+  background: var(--primary-color3);
+  position: relative;
+  height: 90vh;
+  width: 100%;
+  background-image:
+    linear-gradient(rgba(52, 52, 52, 0.5), rgba(60, 60, 60, 0.284)),
+    url("../img/fabrique/26.png");
+  background-size: cover;
+  margin-top: -16vh;
+  
+
+}
+
+.Bannier .block1 {
+
+
+  left: 0;
+  top: 0;
+  margin: 10rem 11rem;
+  padding: 16rem 11rem ;
+  
+}
+
+.Bannier .block1 h2 {
+
+  color: var(--primary-color3);
+  font-size: 5rem;
+  
+}
+.Bannier .block1 p {
+  width: 66vh;
+  color: var(--primary-color3);
+  font-size: 19px;
+  }
+
+  .Bannier .block2 {
+    width: 60%;
+    background: #b11d3bab;
+    display: flex;
+    margin-left: 15rem;
+    padding: 3rem 10rem;
+    color: #efefef;
+    font-size:xx-large;
+    position: absolute;
+    margin-top: -150px;
+    justify-content: center;
+    justify-content: space-between;
+    text-align: center;
+
+  }
+  .Bannier p {
+    font-size: 20px;
+  }
+
+  /*fin banniere*/
 
   /**/
   
