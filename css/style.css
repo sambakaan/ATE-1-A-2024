@@ -2,7 +2,7 @@
     --primary-color: #b11d3a;
     --primary-color2: #262626;
     --primary-color3: #ffffff;
-    --primary-bg: #efefef;
+    --primary-bg: #fdfdfd;
     --primary-color5: #FFDCDE;
     --primary-color6: #181818;
     --primary-color7: #FFEBEB
@@ -1087,6 +1087,127 @@ padding: 18px 6px;
     align-items: center;
     padding: 0 5vh;
   }
+
+/**/
+/**/
+
+
+.histoire  {
+  position: absolute;
+  background: var(--primary-color3);
+  align-items: center;
+  margin-bottom: 20%;
+  width: 99%;
+  height: 120vh;
+  justify-content: center;
+
+  
+
+
+ }
+
+
+.histoire  .grid-container {
+  display: grid;
+  grid-template-columns: 30% 30% 30% ;
+  padding: 20px 70px;
+  justify-content: center;
+  align-items: center;
+}
+.histoire  .grid-item {
+  background-color:white;
+  padding: 20px;
+  font-size: 22px;
+  text-align: left;
+  margin: 2rem;
+  display: block;
+  box-shadow: 1px 2px 21px 1px rgba(0,0,0,0.1);
+
+}
+
+
+
+    
+.histoire .grid-container .next p {
+   
+  position: relative;
+  font-size: 16px; 
+  font-family: fantasy;
+  color: #808080;
+  font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+        
+.histoire .grid-container .next{
+   
+  position: relative;
+  font-size: 22px; 
+  font-family: fantasy;
+  bottom: 12px;
+  color: #575454;
+  font-family: Arial, Helvetica, sans-serif;
+  width:18rem   ;
+  padding: 12px 28px;
+
+
+ }
+ .histoire  .profil {
+ 
+  display: flex;
+  padding: 0 32px;
+
+
+  
+
+}
+.histoire  .profil img{
+ 
+width: 4rem;  
+height: 4rem;  
+border-radius: 10rem;
+
+
+}
+
+.histoire  .name {
+
+ padding-left: 32px;
+
+ 
+
+}
+.histoire .profil  p {
+   
+  position: relative;
+  font-size: 17px; 
+  font-family: fantasy;
+  color: #808080;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+ }
+ .histoire   .actu2{
+  
+  font-size: 4vh;
+  font-family: cursivex ;
+  color: var(--primary-color);
+  position: relative;
+  padding:0 198px ;
+  padding-top: 4rem;
+
+
+}
+.histoire hr {
+  width: 12vh;
+  color: var(--primary-color3);
+  font-size: 19px;
+  position: absolute;
+  left: 25vh;
+  font-size: 32px;
+  }
+
+
 
   
 
