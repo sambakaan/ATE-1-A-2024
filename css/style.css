@@ -1207,7 +1207,176 @@ border-radius: 10rem;
   font-size: 32px;
   }
 
+/**/
 
+
+
+
+
+.contact  {
+  position: absolute;
+  background: var(--primary-color3);
+  align-items: center;
+  margin-top: 28%;
+  margin-bottom: 20%;
+  justify-content: center;
+
+
+ }
+
+ .contact .row  {
+  display: grid ;
+  grid-template-columns: 70% 30%;
+  padding: 6vh 18vh;
+ }
+
+
+
+.contact   h2{
+  font-size: 4vh;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+  color: var(--primary-color);
+  position: relative;
+  padding: 2vh 40rem;
+  width: 20rem;
+
+  
+
+}
+
+.contact .rec-input {
+   
+  position: relative;
+ }
+
+.contact .rec-input .input {
+ 
+  display: flex;
+  position: relative;
+  margin: 3vh 0;
+ }
+
+.contact .rec-input input {
+ 
+  width: 45vh;
+  height: 6vh;
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+  position: relative;
+  top: 2vh;
+  font-size: 3vh;
+  margin: 2vh 2vh ;
+  border-radius: 1vh;
+  border: 1px solid #00000017;
+  box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.1);
+
+  
+ }
+ .contact .rec-input input::placeholder {
+
+ 
+background: rgb(255, 255, 255);
+padding: 2vh 0;
+  
+ }
+.contact .rec-input textarea {
+     
+  font-size: 3vh;
+  border-radius: 1vh;
+  border: 1px solid #00000017;
+  background: var(--primary-color3);
+  margin-left: 1vh;
+  box-shadow: 1px 1px 15px 1px rgba(0,0,0,0.1);
+
+ }
+   .contact .rec-input textarea ::placeholder{
+ 
+
+    background: var(--primary-color3);
+   }
+     
+
+.contact .rec-input input[type=checkbox]{
+
+  width: 3vh;
+  height: 8vh;
+  margin:  0 ;
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+  position: relative;
+  right: 3vh;
+  top: 2vh;
+  font-size: 1vh;
+  position: relative;
+  margin: 2vh 4vh ;
+  border-radius: 1vh;
+ }
+ /**/
+ .contact .cordonner {
+   
+  position: relative;
+  padding: 2vh;
+  display: flex;
+  width: 34vh;
+ }
+
+ .contact .cordonner  i{
+   
+  font-size : 5vh;
+  color: #b11d3a;
+  padding:0 6vh;
+ }
+
+ .contact .cordonner span {
+   
+  font-size : 4vh;
+  color: #0c0c0c;
+ }
+
+
+ .contact .cordonner p {
+   
+  font-size : 2vh;
+  color: #414141;
+ }
+
+  
+.contact .rec-input span{
+   
+  margin:  0 ;
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+  position: relative;
+  right: 8vh;
+  top: 4vh;
+  font-size: 3vh;
+  position: relative;
+  margin: 2vh 4vh ;
+ 
+ }
+    
+.contact .rec-input button{
+ 
+ 
+  font-size: 3vh;
+  position: relative;
+  color: #fff;
+  background-color: var(--primary-color);
+  border: 0;
+  padding: 2.5vh 3vh;
+  border-radius: 7vh;
+  margin-top: 2vh;
+
+ 
+ }
+
+
+
+
+  
 
   
 
