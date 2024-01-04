@@ -2,7 +2,7 @@
     --primary-color: #b11d3a;
     --primary-color2: #262626;
     --primary-color3: #ffffff;
-    --primary-bg: #efefef;
+    --primary-bg: #fdfdfd;
     --primary-color5: #FFDCDE;
     --primary-color6: #181818;
     --primary-color7: #FFEBEB
@@ -878,3 +878,355 @@ padding: 18px 6px;
     width: 25rem;
     display: flex;
   }
+
+/**/
+
+
+.pedagogique {
+ 
+  position: relative;
+  height: 90vh;
+  width: 100%;
+  margin-top: -51vh; 
+
+}
+ /**/
+.pedagogique .container {
+  
+  
+  left: 0;
+  top: 0;
+  margin: 10rem 11rem;
+  padding: 11rem 5rem ;
+}
+
+.pedagogique .container h2 {
+
+  color: var(--primary-color);
+  font-size: 3rem;
+  padding: rem 0;
+}
+
+.pedagogique .container p {
+  width: 66vh;
+  color: var(--primary-color3);
+  font-size: 19px;
+  }
+  .pedagogique .container hr {
+    width: 12vh;
+    color: var(--primary-color3);
+    font-size: 19px;
+    position: absolute;
+    left: 25vh;
+    font-size: 32px;
+    }
+  .pedagogique .video {
+    width: 90%;
+    justify-content: center;
+    justify-content: space-between;
+    text-align: center;
+
+  }
+  .pedagogique .video img{
+    width: 110%;
+    border-radius: 12px;
+    box-shadow: 1px 10px 15px 1px rgba(0, 0, 0, 0.219);
+    border: #bdbdbd31 solid 8px;
+
+  }
+  .pedagogique .video span {
+    width: 37rem;
+  color: #efefef;
+  
+    padding: 1rem  0;
+    height: 1rem;
+    display: block;
+    border-top-right-radius:  12px;
+    border-bottom-right-radius:  12px;
+    background-color: #b11d3a;
+    width: 12vh;
+    position: relative;
+    top: 13vh;
+  }
+  .pedagogique .play img {
+  color: #efefef;
+  position: absolute;
+    padding: 12rem;
+    height: 1rem;
+  
+    left: 68vh;
+    top: 43vh;
+    width: 15vh;
+    height: 15vh;
+  
+  }
+
+  
+  /***/
+  
+  /***/
+  .alumni p {
+    font-size: 20px;
+    display: flex;
+  }
+  
+  .alumni .container {
+    width: 90%;
+    margin-left: 5rem;
+    padding: 12rem 10rem;
+    margin-top: 8rem;
+    display: flex;
+  }
+  .alumni .container h2 {
+    display: flex;
+    color: #b11d3a;
+  }
+  .alumni .container  hr {
+    width: 12vh;
+    color: var(--primary-color3);
+    font-size: 19px;
+    position: absolute;
+    left: 25vh;
+    font-size: 32px;
+    }
+  .alumni .container .description {
+    width: 30rem;
+    margin: 1rem 7rem 0 0 ;
+  }
+  .alumni .container .description  .back{
+    width: 50rem;
+    margin: 5rem 7rem 0 0 ;
+    background: #e9e9e9;
+    height: 23vh;
+    padding: O 5vh;
+
+    align-items: center;
+  }
+  .alumni .container .description .back p {
+    width: 30rem;
+    margin: 5rem 7rem 0 0 ;
+    background: #e9e9e9;
+    height: 23vh;
+    align-items: center;
+    padding: 0 5vh;
+  }
+
+
+  /**/
+
+  .alumni .block {
+   background: #ffffff;
+    display: block;
+    border-radius: 12px;
+    border: #acacac3a solid 1px;
+    box-shadow: 1px 10px 15px 1px rgba(0,0,0,0.1);
+
+  
+  }
+   .block5 {
+    background: #ffffff;
+     display: block;
+     border-radius: 12px;
+     border: #acacac3a solid 1px;
+     box-shadow: 1px 10px 15px 1px rgba(0,0,0,0.1);
+ 
+   
+   }
+  
+  .alumni .block .bg-img {
+    width: 43rem;
+    background-image: url("../img/8.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4rem  0;
+    height: 18rem;
+    display: block;
+    border-bottom: red solid 12px;
+    
+  }
+  .alumni .play img {
+    color: #efefef;
+      padding: 4rem 18rem; 
+      height: 1rem;
+    
+      left: 68vh;
+      top: 43vh;
+      width: 10vh;
+      height: 10vh;
+    
+    }
+  
+  .alumni .block .bg-img span {
+  color: #efefef;
+    padding: 1rem  2rem;
+    height: 1rem;
+    display: block;
+    border-top-right-radius:  12px;
+    border-bottom-right-radius:  12px;
+    background-color: #b11d3a;
+    width: 12vh;
+    z-index: 22;
+    margin-left: -1rem;
+  }
+   
+  .alumni .block .bg-img .time {
+  color: #efefef;
+    padding: 12px;
+    height: 1rem;
+    display: block;
+    border-radius:  7%;
+    right: 20rem;
+    position: absolute;
+    width: 5vh;
+   
+  }
+
+  .alumni .container .block p {
+    
+    align-items: center;
+    padding: 0 5vh;
+  }
+
+/**/
+/**/
+
+
+.histoire  {
+  position: absolute;
+  background: var(--primary-color3);
+  align-items: center;
+  margin-bottom: 20%;
+  width: 99%;
+  height: 120vh;
+  justify-content: center;
+
+  
+
+
+ }
+
+
+.histoire  .grid-container {
+  display: grid;
+  grid-template-columns: 30% 30% 30% ;
+  padding: 20px 70px;
+  justify-content: center;
+  align-items: center;
+}
+.histoire  .grid-item {
+  background-color:white;
+  padding: 20px;
+  font-size: 22px;
+  text-align: left;
+  margin: 2rem;
+  display: block;
+  box-shadow: 1px 2px 21px 1px rgba(0,0,0,0.1);
+
+}
+
+
+
+    
+.histoire .grid-container .next p {
+   
+  position: relative;
+  font-size: 16px; 
+  font-family: fantasy;
+  color: #808080;
+  font-family: Arial, Helvetica, sans-serif;
+
+ }
+
+        
+.histoire .grid-container .next{
+   
+  position: relative;
+  font-size: 22px; 
+  font-family: fantasy;
+  bottom: 12px;
+  color: #575454;
+  font-family: Arial, Helvetica, sans-serif;
+  width:18rem   ;
+  padding: 12px 28px;
+
+
+ }
+ .histoire  .profil {
+ 
+  display: flex;
+  padding: 0 32px;
+
+
+  
+
+}
+.histoire  .profil img{
+ 
+width: 4rem;  
+height: 4rem;  
+border-radius: 10rem;
+
+
+}
+
+.histoire  .name {
+
+ padding-left: 32px;
+
+ 
+
+}
+.histoire .profil  p {
+   
+  position: relative;
+  font-size: 17px; 
+  font-family: fantasy;
+  color: #808080;
+  font-family: Arial, Helvetica, sans-serif;
+
+
+ }
+ .histoire   .actu2{
+  
+  font-size: 4vh;
+  font-family: cursivex ;
+  color: var(--primary-color);
+  position: relative;
+  padding:0 198px ;
+  padding-top: 4rem;
+
+
+}
+.histoire hr {
+  width: 12vh;
+  color: var(--primary-color3);
+  font-size: 19px;
+  position: absolute;
+  left: 25vh;
+  font-size: 32px;
+  }
+
+
+
+  
+
+  
+ 
+  
+  
+
+  
+ 
+  
+ 
+  /**/
+  
+
+   
+ 
+
+ 
+  
+  /**/
+
