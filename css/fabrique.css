@@ -130,7 +130,137 @@ header .submenu a {
   }
 
   /*fin banniere*/
-
+  /***/
+  .histoire p {
+    font-size: 20px;
+    display: flex;
+    margin-top: 83px;
+  }
+  .histoire  {
+    font-size: 20px;
+    display: block;
+    align-items: center;
+    justify-content: center ;
+ 
+ 
+  }
+  .histoire h1 {
+    font-size: 4vh;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+  color: var(--primary-color);
+  position: absolute;
+  padding: 21vh 0;
+  width: 20rem;
+  left: 45%;
+ 
+ 
+ 
+ 
+  }
+   .histoire .class-histoire {
+    width: 90%;
+    margin-left: 5rem;
+    padding: 20rem 10rem;
+    margin-top: 12vh;
+    display: flex;
+  }
+   .histoire .class-histoire .app {
+    width: 30rem;
+    padding: 0 3rem;
+   }
+   .histoire .block3 {
+   background: #e9e9e9;
+    display: block;
+    border-radius: 12px;
+    border: #acacac3a solid 1px;
+   }
+   .histoire .block3 .bg-img {
+    width: 37rem;
+    background-image: url("../img/fabrique/26.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4rem  0;
+    height: 18rem;
+    display: block;
+  }
+   .histoire .block3 .bg-img span {
+    width: 37rem;
+  color: #efefef;
+     padding: 1rem  0;
+    height: 1rem;
+    display: block;
+    border-top-right-radius:  12px;
+    border-bottom-right-radius:  12px;
+    background-color: #b11d3a;
+    width: 12vh;
+  }
+   .histoire .class-histoire h2 {
+    display: flex;
+    color: #b11d3a;
+  }
+   .class-histoire .block3 p {
+    font-size: 20px;
+    display: flex;
+  }
+  
+  .histoire .block3 {
+   background: #e9e9e9;
+    display: block;
+    border-radius: 12px;
+    border: #acacac3a solid 1px;
+    
+   }
+   .histoire .block3 .bg-img {
+    width: 37rem;
+    background-image: url("../img/fabrique/26.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 4rem  60rem;
+    height: 18rem;
+    display: block;
+  }
+   .histoire .block3 .bg-img span {
+    width: 3rem;
+     padding: 1rem  0;
+    height: 1rem;
+    display: block;
+    border-top-right-radius:  12px;
+    border-radius:  8px;
+    width: 12vh;
+    position: absolute;
+    right: 29rem;
+  }
+   .histoire .class-histoire h2 {
+    display: flex;
+    color: #b11d3a;
+  }
+   .class-histoire .block3 p {
+    font-size: 20px;
+    display: flex;
+  }
+  /**/
+   .histoire .block3 {
+    background: #e9e9e9;
+     display: block;
+     border-radius: 12px;
+     border: #acacac3a solid 1px;
+  
+   }
+  
+   .histoire .block3 .bg-img {
+     width: 37rem;
+     background-image: url("../img/fabrique/26.png");
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     padding: 4rem  0;
+     height: 18rem;
+     display: block;
+   }
+ 
+ 
   /**/
   
   
