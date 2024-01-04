@@ -262,6 +262,199 @@ header .submenu a {
  
  
   /**/
+   
+#pedagogie  {
+    position: absolute;
+    background: var(--primary-color3);
+    align-items: center;
+    margin-top: -10%;
+
+   }
+
+#pedagogie .row>.peda{
+    display: flex ;
+    font-size: 4vh;
+    align-content: normal;
+}
+
+#pedagogie .row h2{
+    font-size: 4vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    color: var(--primary-color);
+    position: absolute;
+    padding: 12vh 0;
+
+}
+.pedagogie h1 {
+  font-size: 4vh;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+color: var(--primary-color);
+position: absolute;
+padding: 1vh 0;
+width: 20rem;
+left: 45%;
+
+}
+
+.pedagogie .peda  p {
+   
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vh; 
+    position: relative;
+    top: 15vh;
+   }
+   .pedagogie .peda  .peda-text p {
+   
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    font-size: 4vh; 
+    position: relative;
+    top: 15vh;
+    width: 40rem;
+   }
+.pedagogie .peda iframe{
+    position: relative;
+    margin: 12vh ;
+    width: 50rem;
+}
+
+
+
+.pedagogie .border-btm{
+    position: absolute;
+    width: 22vh;
+    height: 2vh;
+    background-color: var(--primary-color);
+    float: right;
+    margin:0 46% ;
+    border-radius: 12vh;
+ 
+   
+}
+
+
+.pedagogie .fab-text {
+   
+    width: 60vh;
+    height: 102vh;
+    border-radius:2vh ;
+      float: right;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin: 14vh 14vh;
+    z-index: 10;
+    animation-timing-function: cubic-bezier(1.215, 1.61, 2.355, 1);
+    transform: translate3d(10, 10, 10)
+
+ 
+
+   }
+
+
+   
+.pedagogie .fab-text-bg {
+   
+    width: 60vh;
+    height:102vh;
+    background-image :url(../img/fabrique/Apprenantes-Senegal-1024x768.jpg) ;
+    border-radius:2vh ;
+    background-size: cover;
+    box-shadow: -2px 6px 23px #b4b4b44f;
+    float: right;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    margin: 17vh -71vh;
+    position: relative;
+    z-index: 1;
+   }
+   
+
+
+   
+.pedagogie .peda-plier {
+   
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh; 
+    text-align: left;
+    display: flex;
+    width: 55%;
+    margin-bottom: 5vh;
+
+   }
+            
+.pedagogie .peda-plier .box-plier {
+     
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.3vh; 
+    width:52vh;
+    height: 28vh;
+    text-align: left;
+    background: #fff;
+    box-shadow: -2px 6px 23px #b4b4b44f;
+    border-bottom: 1vh solid#C3323A;
+    position: relative;
+    margin:0 4vh;
+    top: 22vh;
+    left: 7vh;
+    padding: 0 2vh;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+
+   #pedagogie .peda-plier h2{
+    font-size: 6vh;
+    text-align: left;
+    margin: 12vh;
+    position: absolute;
+    left:1px;
+}
+            
+.pedagogie .peda-plier .box-plier .numb {
+     
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 7vh; 
+    color: var(--primary-color);
+    text-align: left;    
+    position: relative;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    top: 2vh;
+
+   }
+   .pedagogie .peda-plier .box-plier p {
+     
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vh; 
+    text-align: justify;    
+    position: relative;
+    width: 90%;
+      font-family: Impact, Haettensc  hweiler, 'Arial Narrow Bold', sans-serif;
+
+   }
+            
+.pedagogie .peda-plier .box-plier h3 {
+     
+    position: relative;
+    font-size: 2vh; 
+    font-family: fantasy;
+    top: 1vh;
+
+   }
   
   
   
