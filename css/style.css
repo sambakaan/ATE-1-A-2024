@@ -878,3 +878,89 @@ padding: 18px 6px;
     width: 25rem;
     display: flex;
   }
+
+/**/
+
+
+.pedagogique {
+ 
+  position: relative;
+  height: 90vh;
+  width: 100%;
+  margin-top: -51vh; 
+
+}
+ /**/
+.pedagogique .container {
+  
+  
+  left: 0;
+  top: 0;
+  margin: 10rem 11rem;
+  padding: 11rem 5rem ;
+}
+
+.pedagogique .container h2 {
+
+  color: var(--primary-color);
+  font-size: 3rem;
+  padding: rem 0;
+}
+
+.pedagogique .container p {
+  width: 66vh;
+  color: var(--primary-color3);
+  font-size: 19px;
+  }
+  .pedagogique .container hr {
+    width: 12vh;
+    color: var(--primary-color3);
+    font-size: 19px;
+    position: absolute;
+    left: 25vh;
+    font-size: 32px;
+    }
+  .pedagogique .video {
+    width: 90%;
+    justify-content: center;
+    justify-content: space-between;
+    text-align: center;
+
+  }
+  .pedagogique .video img{
+    width: 110%;
+    border-radius: 12px;
+    box-shadow: 1px 10px 15px 1px rgba(0, 0, 0, 0.219);
+    border: #bdbdbd31 solid 8px;
+
+  }
+  .pedagogique .video span {
+    width: 37rem;
+  color: #efefef;
+  
+    padding: 1rem  0;
+    height: 1rem;
+    display: block;
+    border-top-right-radius:  12px;
+    border-bottom-right-radius:  12px;
+    background-color: #b11d3a;
+    width: 12vh;
+    position: relative;
+    top: 13vh;
+  }
+  .pedagogique .play img {
+  color: #efefef;
+  position: absolute;
+    padding: 12rem;
+    height: 1rem;
+  
+    left: 68vh;
+    top: 43vh;
+    width: 15vh;
+    height: 15vh;
+  
+  }
+  
+
+  /**/
+
